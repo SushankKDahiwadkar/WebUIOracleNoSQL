@@ -1,0 +1,151 @@
+\section{Introduction to Testing}
+\hspace*{0.7in} The purpose of testing is to discover errors. Testing is the process of trying to discover every conceivable fault or weakness in a work product. It provides a way to check the functionality of components, sub-assemblies, assemblies and/or a finished product It is the process of exercising software with the intent of ensuring that the
+Software system meets its requirements and user expectations and does not fail in an unacceptable manner. There are various types of test. Each test type addresses a specific testing requirement.
+\subsection{Types of Tests}
+\begin{itemize}
+  \item \textbf{Level of Testing}
+\end{itemize}
+\begin{enumerate}
+  \item Unit testing tests the minimal software component or modules. Each unit of the software is tested to verify that the details designed for unit has been correctly implemented.
+  \item Integration testing exposes defects in the interface and interaction between integrated components. Progressively larger groups of tested software components corresponding to elements of architectural design are integrated and tested until the software works as whole.
+  \item System testing tests an integrated system to verify that it meets its requirements.
+  \item System integration testing verifies that system is integrated to any external or third party systems defined in the system requirements.
+  \item Acceptance testing can be conducted by the end users customers of client to validate whether or not to accept the product. Acceptance testing may be performed after the testing and the before the implementation phase.
+  \item Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at developers site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
+  \item Beta testing comes after alpha testing. Versions of the software, known as beta versions, are released to limited audience outside of the company. The software is released to the groups of people so that further testing can ensure the product has few faults and bugs. Sometimes, beta versions are made available to open public to increase the feedback field to maximal number of future users.
+\end{enumerate}
+
+\hspace*{0.7in} As a tester, it is always advisable to use manual white box testing and black box testing techniques on the test software. Manual testing helps discover and record any software bug or discrepancies related to the functionality of the product.
+\\
+\hspace*{0.7in} Manual testing can be replaced by test automation. It is possible to record and playback manual steps and write automated test script(s) using test automation tools. Although, Test automation tools will only help execute test scripts written primarily for executing a particular specification and functionality. Test automation tools lack the ability of decision-making and recording any unscripted discrepancies during program execution. It is recommended that one should perform manual testing of the entire product at least a couple of times before actually deciding to automate the more mundane activities of the product.
+\\
+\hspace*{0.7in} Manual testing helps discover defects related to the usability testing and GUI testing area. While performing manual tests the software application can be validated whether it meets the various standards defined for effective and effective usage and accessibility. For example, the standard location of the OK button on the screen is on the left and of CANCEL button on the right. During manual testing you might discover that on some screen, it is not. This is a new defect related to usability of screen.
+\\
+\hspace*{0.3in} A manual tester would typically perform the following steps for manual testing:
+\begin{itemize}
+  \item  Understand the functionality of program
+  \item	 Prepare a test environment
+  \item  Execute test case(s) manually
+  \item  Verify the actual result
+  \item  Record the result as PASS or FAIL
+  \item  Make a summary report of the PASS and FAIL test cases
+  \item  Publish the report
+  \item  Record any new defects uncovered during the test case execution
+\end{itemize}
+
+\hspace*{0.7in}There is no complete substitute for manual testing. Manual testing is crucial for testing software application more thoroughly. Test automation has become a necessity mainly due to shorter deadline for performing test activities, such as regression testing, performance testing and load testing.
+
+\section{Manual Test Cases}
+\hspace*{0.7in}Following question answering provides an overview referred from the test plan built for the project being implemented:
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for connect to store}\label{test cases for connect to store}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Store Name, Host Name and Host Port & Error Message: "Must Enter Store Name, Host Name and Host Port" & Error Message: "Must Enter Store Name, Host Name and Host Port" \\	 \hline
+2 & Blank Store Name, Incorrect/Correct Host Name and Host Port  & Error Message: "Must Enter Store Name" & Error Message: "Must Enter Store Name, Host Name and Host Port" \\	 \hline
+3 & Blank Host Name, Incorrect/Correct Store Name and Host Port & Error Message: "Must Enter Host Name" & Error Message: "Must Enter Store Name, Host Name and Host Port"\\	 \hline
+4 & Blank Host Port, Incorrect/Correct Store Name and Host Name & Error Message: "Must Enter Host Name" & Error Message: "Must Enter Store Name, Host Name and Host Port"\\	 \hline
+5 & Incorrect Store Name, Correct Host Name and Host Port & Error Message: "Enter Correct Store Name" & Error Message: "Cannot Connect to Store"\\	 \hline
+6 & Incorrect Host Name, Correct Store Name and Host Port & Error Message: "Enter Correct Host Name" & Error Message: "Cannot Connect to Store"\\	 \hline
+7 & Incorrect Host Port, Correct Store Name and Host Name & Error Message: "Enter Correct Host Port" &Error Message: "Cannot Connect to Store" \\	 \hline
+8 & Incorrect Store Name, Host Name and Correct Host Port & Error Message: "Enter Correct Store Name and Host Name" & Error Message: "Cannot Connect to Store"\\	 \hline
+9 & Incorrect Store Name, Host Port and Correct Host Name & Error Message: "Enter Correct Store Name and Host Port" & Error Message: "Cannot Connect to Store"\\	 \hline
+10 & Incorrect Host Name, Host Port and Correct Store Name & Error Message: "Enter Correct Host Name and Host Port" &Error Message: "Cannot Connect to Store" \\	 \hline
+11 & Incorrect Store Name, Host Name and Host Port & Error Message: "Enter Correct Store Name, Host Name and Host Port" & Error Message: "Cannot Connect to Store"\\	 \hline
+12 & Correct Store Name, Host Name and Hot Port & Message: "Welcome to KVStore" & Message: "Welcome to KVStore"\\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Insert Data}\label{test cases for Insert Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Major Key Component, Minor Key Component and Key Value & Error Message: "Please Enter all Parameters" & Error Message: "Data Insertion Failed"\\	 \hline
+2 & Blank Major Key Component and Valid Minor Key Component and Key Value & Error Message: "Please Enter Major Key Component" & Error Message: "Please Enter all Parameters"\\	 \hline
+3 & Blank Minor Key Component and Valid Major Key Component and Key Value & Error Message: "Please Enter Minor Key Component" & Error Message: "Please Enter all Parameters"\\	 \hline
+4 & Blank Key Value and Valid Major Key Component and Minor Key Component & Error Message: "Please Enter Key Value" & Message: "Data Inserted Successfully"\\	 \hline
+5 & Valid Major Key Component, Minor Key Component and Key Value & Message: " Data Inserted Successfully" & Message: "Data Inserted Successfully"\\	 \hline
+ \end{tabular}
+\end{flushleft}
+\end{table}
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Display Data}\label{test cases for Display Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Major and Minor Key Component & Error Message: "Please Enter All Parameters" & Error Message: "Error"\\	 \hline
+2 & Blank Major Key Component and Valid Minor Key Component & Error Message: "Please Enter All Parameters" & Error Message: "Please Enter All Parameters"\\	 \hline
+3 & Blank Minor Key Component and Valid Major Key Component & Error Message: "Please Enter All Parameters" & Error Message: "Please Enter All Parameters" \\	 \hline
+4 & Incorrect Major and Minor Key Component & Error Message: "Data not Available for given Parameters"  &Error Message: "Error" \\	 \hline
+5 & Incorrect Major Key Component and Correct Minor Key Component & Error Message: "Data not Available for given Parameters"  & Error Message: "Error"\\	 \hline
+6 & Incorrect Minor Key Component and Correct Major Key Component & Error Message: "Data not Available for given Parameters"  & Error Message: "Error"\\	 \hline
+7 & Correct Major and Minor Key Component & Data Displayed & Data Displayed\\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Update Data}\label{test cases for Update Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Major Key Component, Minor Key Component and Key Value & Error Message: "Please Enter all Parameters" & Error Message: "Data Insertion Failed"\\	 \hline
+2 & Blank Major Key Component and Correct Minor Key Component and Key Value & Error Message: "Please Enter Major Key Component" & Error Message: "Please Enter all Parameters"\\	 \hline
+3 & Blank Minor Key Component and Correct Major Key Component and Key Value & Error Message: "Please Enter Minor Key Component" & Error Message: "Please Enter all Parameters"\\	 \hline
+4 & Blank Key Value and Correct Major Key Component and Minor Key Component & Error Message: "Please Enter Key Value" & Error Message: "Data Updation Failed"\\	 \hline
+5 & Incorrect Major Key Component and Correct Minor key Component and Key Value & Error Message: "Please Enter Major Key Component" & Error Message: "Data Updation Failed"\\	 \hline
+6 & Incorrect Minor Key Component and Correct Major key Component and Key value & Error Message: "Please Enter Minor Key Component" & Error Message: "Data Updation Failed"\\	 \hline
+7 & Correct Major Key Component, Minor Key Component and Key Value & Message: " Data Updated Successfully" &Message: "Data Updated Successfully" \\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Delete Data}\label{test cases for Delete Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Major Key and Minor Key Component & Error Message: "Please Enter all Parameters" & Error Message: "Error"\\	 \hline
+2 & Blank Major Key Component and Valid Minor Key Component & Error Message: "Please Enter all Parameters" & Error Message: "Please Enter all Parameters"\\	 \hline
+3 & Blank Minor Key Component and Valid Major Key Component & Error Message: "Please Enter all Parameters" & Error Message: "Please Enter all Parameters"\\	 \hline
+4 & Incorrect Major Key Component and Correct Minor Key Component & Error Message: "Please Enter Correct Major Key Component" & Error Message: "Error"\\	 \hline
+5 & Incorrect Minor Key Component and Correct Major Key Component & Error Message: "Please Enter Correct Minor Key Component" & Error Message: "Error"\\	 \hline
+6 & Correct Major and Minor Key Component & Message: "Data Deleted Successfully" & Message: "Data Deleted Successfully"\\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Import Data}\label{test cases for Import Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Select File Option & Error Message: "Please Select File" & Error Message: "Please Select Valid File"\\	 \hline
+2 & Other than CSV file Selected & Error Message: "Please Select File" & Error Message: "Please Select Valid File"\\	 \hline
+3 & Input CSV File & Message: "File Uploaded, Please Select Options for Import" & Message: "File Uploaded, Please Select Options for Import"\\	 \hline
+4 & Blank Major, Minor Key Component and Minor Key Component Part Field & Error Message: "Please Enter all the Parameters" & Error Message: "Please Enter all the Parameters\\	 \hline
+5 & Blank Major Key Component and Valid Minor Key Component and Minor Key Component Part Field & Error Message: "Please Enter all the Parameters" & Error Message: "Please Enter all the Parameters\\	 \hline
+6 & Blank Minor Key Component and Valid Major Key Component and Minor Key Component Part Field & Error Message: "Please Enter all the Parameters" & Error Message: "Please Enter all the Parameters\\	 \hline
+7 & Blank Minor Key Component Part Field and Valid Major Key Component and Minor Key Component & Error Message: "Please Enter all the Parameters & Error Message: "Please Enter all the Parameters\\	 \hline
+8 & Valid Major, Minor Key Component and Minor Key Component Part Field & Message: "Data Imported Successfully" & Message: "Data Imported Successfully"\\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+\begin{table}[t]
+\begin{flushleft}
+\caption{test cases for Export Data}\label{test cases for Export Data}
+\begin{tabular}{|p{1cm}|p{4cm}|p{4cm}|p{5cm}|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Major Key Component & Error Message: "Please Enter Major Key Component" & Error Message: "Error"\\	 \hline
+2 & Incorrect Major Key Component & Error Message: "Please Enter Major Key Component" & Error Message: "Error"\\	 \hline
+3 & Correct Major Key Component & Data Displayed and File Download Option Appears & Data Displayed and File Download Option Appears\\	 \hline
+\end{tabular}
+\end{flushleft}
+\end{table}

@@ -1,0 +1,132 @@
+\section{Introduction to Testing}
+\hspace*{0.7in} The purpose of testing is to discover errors. Testing is the process of trying to discover every conceivable fault or weakness in a work product. It provides a way to check the functionality of components, sub-assemblies, assemblies and/or a finished product It is the process of exercising software with the intent of ensuring that the
+Software system meets its requirements and user expectations and does not fail in an unacceptable manner. There are various types of test. Each test type addresses a specific testing requirement.
+\subsection{Types of Tests}
+\begin{itemize}
+  \item \textbf{Level of Testing}
+\end{itemize}
+\begin{enumerate}
+  \item Unit testing tests the minimal software component or modules. Each unit of the software is tested to verify that the details designed for unit has been correctly implemented.
+  \item Integration testing exposes defects in the interface and interaction between integrated components. Progressively larger groups of tested software components corresponding to elements of architectural design are integrated and tested until the software works as whole.
+  \item System testing tests an integrated system to verify that it meets its requirements.
+  \item System integration testing verifies that system is integrated to any external or third party systems defined in the system requirements.
+  \item Acceptance testing can be conducted by the end users customers of client to validate whether or not to accept the product. Acceptance testing may be performed after the testing and the before the implementation phase.
+  \item Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at developers site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
+  \item Beta testing comes after alpha testing. Versions of the software, known as beta versions, are released to limited audience outside of the company. The software is released to the groups of people so that further testing can ensure the product has few faults and bugs. Sometimes, beta versions are made available to open public to increase the feedback field to maximal number of future users.
+\end{enumerate}
+
+\begin{itemize}
+  \item \textbf{Test cases, suites, scripts and scenarios :}
+\end{itemize}
+\hspace*{0.7in} A test case is a software testing document, which consist of event, action, input and output, expected result and actual result. Clinically defined (IEEE 829-1998) a test case is an input and an expected result. This can be pragmatic as 'for condition x derived result y', whereas other test cases described in more detail the input scenario and what result might be expected. It occasionally be a series of steps (but often steps are contained in a separate test procedure that can be exercised against multiple test cases, as matter of economy) but with one expected result or expected outcome. The optional fields are a test case ID, test step or order of execution of number, related requirements, depth, test category, author and check boxes for whether the test is automate and has been automated. Larger test cases may also contain prerequisite states or steps and descriptions. A test case should also contain place for actual result. These steps can be stored in a word processor document, spreadsheet, database or other common repository. In a database system toy may also be able to see past test result and who generated the result and the system configuration used to generate those results. These past results would usually be stored in a separate table.
+\\
+\hspace*{0.7in}The term test script is the combination of test case, test procedure and test data. Initially the term was derived from the product of work created by automated regression test tool. Today, test scripts can be manual automated, or a combination of both.
+\\
+\hspace*{0.7in}The most common term for the collection of test case is a test suite. The test suite often also contains more detailed instruction or goals for each collection of test cases. It definitely contains a section where the tester identifies the system configuration used during testing. A group of test cases may also contain prerequisite states or steps and description of the following tests.
+\\
+\hspace*{0.7in}Collections of test cases are sometimes incorrectly termed a test plan. They might correctly be called a test specification. If sequence is specified, it can called a test script, scenario or procedure.
+\begin{itemize}
+  \item \textbf{Test Cases :}
+\end{itemize}
+\hspace*{0.7in} In software engineering, the most common definition of a test case is a set of conditions or variables under which a tester will determine if a requirement or use case upon an application is partially or fully satisfied. It may take many test cases to determine that a requirement is fully satisfied. In order to fully test that all the requirements of an application are met, there must be at least one test case for each requirement unless a requirement has sub requirements. In that situation, each sub requirement must have at least one test case. This is frequently done using a traceability matrix. Some methodologies, like RUP, recommend creating at least two test cases for each requirement. One of them should perform positive testing of requirement and other should perform negative testing. Written test cases should include a description of the functionality to be tested, and the preparation required to ensure that the test can be conducted.
+\\
+\hspace*{0.7in} If the application is created without formal requirements, then the test cases can be written based on the accepted normal operation of program of a similar class. In some school of testing, test cases are not written at all but the activities and results are reported after the tests have been run.
+What characterizes a formal, written test case is that there is a known input and an expected output, which is worked out before the test is executed. The known input should test a precondition and the expected output should test a post condition.
+\\
+\hspace*{0.7in} Under special circumstances there could be a need to run the test, produce results, and then a term of experts would evaluates if the results can be considered as a pass. This happen often on new products performance number determination. The first test is taken as the baseline for the subsequent test/product release cycles.
+\\
+\hspace*{0.7in} Written test cases are usually collected into test suites. Variations of test cases are most commonly used in acceptance testing. Acceptance testing is done by a group of end-users or clients of the system to ensure the developed system meets their requirements. User acceptance testing is usually differentiated by the inclusion of happy path or positive test cases.
+
+\begin{itemize}
+  \item \textbf{Manual Testing}
+\end{itemize}
+\hspace*{0.7in} Manual testing is the oldest and most rigorous type of software testing. Manual testing requires a tester to perform manual test operations on the test software without the help of test automation. Manual testing is a laborious activity that requires the tester to possess a certain set of qualities; to be patient, observant, speculative, creative, innovative, open-minded, resourceful and skillful.
+\\
+\hspace*{0.7in} As a tester, it is always advisable to use manual white box testing and black box testing techniques on the test software. Manual testing helps discover and record any software bug or discrepancies related to the functionality of the product.
+\\
+\hspace*{0.7in} Manual testing can be replaced by test automation. It is possible to record and playback manual steps and write automated test script(s) using test automation tools. Although, Test automation tools will only help execute test scripts written primarily for executing a particular specification and functionality. Test automation tools lack the ability of decision-making and recording any unscripted discrepancies during program execution. It is recommended that one should perform manual testing of the entire product at least a couple of times before actually deciding to automate the more mundane activities of the product.
+\\
+\hspace*{0.7in} Manual testing helps discover defects related to the usability testing and GUI testing area. While performing manual tests the software application can be validated whether it meets the various standards defined for effective and effective usage and accessibility. For example, the standard location of the OK button on the screen is on the left and of CANCEL button on the right. During manual testing you might discover that on some screen, it is not. This is a new defect related to usability of screen. In addition, there could be many cases where the GUI is not displayed correctly and basic functionality of the program is correct. Such bugs are not detectable using test automation tools.
+\\
+\hspace*{0.7in} Repetitive manual testing can be difficult to perform on large software applications or applications having very large dataset coverage. This drawback is compensated by using manual black-box testing techniques including equivalence partitioning and boundary value analysis. Using which, the vast dataset specifications can be divided and converted into a more manageable and achievable set of test suites.
+\\
+\hspace*{0.3in} A manual tester would typically perform the following steps for manual testing:
+\begin{itemize}
+  \item  Understand the functionality of program
+  \item	 Prepare a test environment
+  \item  Execute test case(s) manually
+  \item  Verify the actual result
+  \item  Record the result as PASS or FAIL
+  \item  Make a summary report of the PASS and FAIL test cases
+  \item  Publish the report
+  \item  Record any new defects uncovered during the test case execution
+\end{itemize}
+
+\hspace*{0.7in}There is no complete substitute for manual testing. Manual testing is crucial for testing software application more thoroughly. Test automation has become a necessity mainly due to shorter deadline for performing test activities, such as regression testing, performance testing and load testing.
+
+\section{Manual Test Cases}
+\hspace*{0.7in}Following question answering provides an overview referred from the test plan built for the project being implemented:-
+\subsection{Test Cases for Admin Login}
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for admin's login}\label{test cases for admin's login}
+\begin{tabular}{|c|c|c|c|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Blank Admin Name &
+Password
+ & Error Message :"Must Enter Admin And Password" & Error Message :"Must Enter Admin And Password" \\	\hline
+2 & Incorrect/Correct Admin Name And Blank Password & Error Message :"Must Enter Admin And Password" & Error Message :"Must Enter Admin And Password" \\	\hline
+3 & Blank Admin Name And Incorrect/Correct
+Password
+ & Error Message :"Must Enter Admin And Password" & Error Message :"Must Enter Admin And Password" \\	\hline
+4 & Incorrect Admin Name And
+Password
+ & Error Message : "Enter Correct Admin And Password" & Error Message : "Enter Correct Admin And Password" \\	 \hline
+5 & Correct Admin And Incorrect Password & Error Message : "Enter Correct Admin And Password" & Error Message : "Enter Correct Admin And Password" \\	\hline
+6 & Incorrect Admin And Correct Password & Error Message : "Enter Correct Admin And Password" & Error Message : "Enter Correct Admin And Password" \\	\hline
+7 & Correct Admin And Correct Password & Message : "Login Successful" & Message : "Login Successful" \\	\hline
+ \end{tabular}
+\end{flushleft}
+\end{table}
+
+\subsection{Test Cases for Homescreen}
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for homescreen}\label{test cases for homescreen}
+\begin{tabular}{|c|c|c|c|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+1 & Click on Admin & Admin Login should be displayed & Login Window opened for Admin \\ \hline
+2 & Click on Search & Search Panel Should be Displayed to user & Search Panel is Displayed \\ \hline
+3 & Click on Exit & The system should be closed & Exit from the system \\ \hline
+4 & Click on video to play & The video should be opened/played & The video get loaded and played immediately \\ \hline
+5 & Click on Download & The video should be downloaded at specified location & The video get downloaded\\ \hline
+ \end{tabular}
+\end{flushleft}
+\end{table}
+
+\subsection{Test Cases for Uploading video}
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Uploading video}\label{test cases for Uploading video}
+\begin{tabular}{|c|c|c|c|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline 
+1 & Blank Browse and Click On Keyframe button & Error Message : "Must Select A video File" & Error Message : "Must Select A video File" \\ \hline
+2 & Select Other file than Video & Error Message : "Incorrect Video File" & Error Message : "Incorrect Video File" \\ \hline
+3 & Input Video file & Message : "File Loaded Successfully" & Message : "File Loaded Successfully" \\ \hline
+4 & Input video file and click on key Frame & Message : "Key Frames Extracted Successfully" & Message : "Key Frames Extracted Successfully" \\ \hline
+5 & Click on Search Button  & Search Panel Should be displayed to admin & Search Panel Should be displayed to admin \\ \hline
+\end{tabular}
+\end{flushleft}
+\end{table}
+
+\subsection{Test Cases for Uploading video}
+\begin{table}[h]
+\begin{flushleft}
+\caption{test cases for Uploading video}\label{test cases for Uploading video}
+\begin{tabular}{|c|c|c|c|} \hline
+Sr.No. & Test Cases & Expected Results & Actual results \\ \hline
+
+
+\end{tabular}
+\end{flushleft}
+\end{table}

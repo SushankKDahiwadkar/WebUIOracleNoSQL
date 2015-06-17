@@ -1,0 +1,1859 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.12)  31 MAY 2014 17:05
+entering extended mode
+**G:/A*Tool*For*Managing*Key*Value*on*Oracle*NoSQL*Latex*Report/LATEX_REPORTV1/
+LATEX_REPORTV1/REPORT.tex
+
+("G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/
+LATEX_REPORTV1/REPORT.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\SNJB.cls"
+Document Class: SNJB 2011/12/03 v1.0 snjb project and seminar report
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen105
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/08/28 v2.9.1 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen106
+\ttl@minus=\dimen107
+\ttl@toksa=\toks16
+\titlewidth=\dimen108
+\titlewidthlast=\dimen109
+\titlewidthfirst=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box27
+\shadowsize=\dimen111
+\@Sbox=\box28
+\do@VerbBox=\toks17
+\the@fancyput=\toks18
+\this@fancyput=\toks19
+\EndVerbatimTokens=\toks20
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+)
+\c@condition=\count90
+\c@proposition=\count91
+\c@theorem=\count92
+\c@defn=\count93
+\c@conjecture=\count94
+\c@problem=\count95
+\c@subproblem=\count96
+\c@case=\count97
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen112
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks22
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks23
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks24
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen121
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen122
+\subfiglabelskip=\skip60
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count114
+\c@ALC@line=\count115
+\c@ALC@rem=\count116
+\c@ALC@depth=\count117
+\ALC@tlm=\skip63
+\algorithmicindent=\skip64
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks26
+\float@box=\box31
+\@float@everytoks=\toks27
+\@floatcapt=\box32
+)
+\@float@every@algorithm=\toks28
+\c@algorithm=\count119
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2011/09/30 v3.2c Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2011/10/09 v1.4 caption3 kernel (AR)
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count120
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/08/19 v6.82h Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen129
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/08/19 v6.82h Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count123
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 3932.
+Package hyperref Info: Hyper figures OFF on input line 4053.
+Package hyperref Info: Link nesting OFF on input line 4058.
+Package hyperref Info: Hyper index ON on input line 4061.
+Package hyperref Info: Plain pages OFF on input line 4068.
+Package hyperref Info: Backreferencing OFF on input line 4073.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4291.
+\c@Hy@tempcnt=\count124
+LaTeX Info: Redefining \url on input line 4644.
+\Fld@menulength=\count125
+\Field@Width=\dimen130
+\Fld@charsize=\dimen131
+Package hyperref Info: Hyper figures OFF on input line 5730.
+Package hyperref Info: Link nesting OFF on input line 5735.
+Package hyperref Info: Hyper index ON on input line 5738.
+Package hyperref Info: backreferencing OFF on input line 5745.
+Package hyperref Info: Link coloring OFF on input line 5750.
+Package hyperref Info: Link coloring with OCG OFF on input line 5755.
+Package hyperref Info: PDF/A mode OFF on input line 5760.
+LaTeX Info: Redefining \ref on input line 5800.
+LaTeX Info: Redefining \pageref on input line 5804.
+\Hy@abspage=\count126
+\c@Item=\count127
+\c@Hfootnote=\count128
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/08/19 v6.82h Hyperref driver for pdfTeX
+\Fld@listcount=\count129
+\c@bookmark@seq@number=\count130
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip65
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen132
+\nom@tempdim=\dimen133
+\nomitemsep=\skip66
+)
+\@nomenclaturefile=\write4
+
+Writing nomenclature file REPORT.nlo
+\@indexfile=\write5
+Writing index file REPORT.idx
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.aux"
+
+LaTeX Warning: Label `Attendance check System' multiply defined.
+
+
+LaTeX Warning: Label `Attendance check System' multiply defined.
+
+
+LaTeX Warning: Label `Attendance check System' multiply defined.
+
+
+LaTeX Warning: Label `Attendance check System' multiply defined.
+
+
+LaTeX Warning: Label `System Architecture' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen134
+\scratchbox=\box33
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen135
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks30
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 23.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count137
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.out")
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.out")
+\@outlinefile=\write6
+ <uni.png, id=275, 414.54875pt x 301.125pt>
+File: uni.png Graphic file (type png)
+
+<use uni.png>
+Package pdftex.def Info: uni.png used on input line 42.
+(pdftex.def)             Requested size: 180.67514pt x 93.94969pt.
+ <snjb.png, id=276, 258.9675pt x 290.08376pt>
+File: snjb.png Graphic file (type png)
+ <use snjb.png>
+Package pdftex.def Info: snjb.png used on input line 42.
+(pdftex.def)             Requested size: 144.54662pt x 108.40489pt.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <G:/A Tool For Managing Ke
+y Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/uni.png> <G:
+/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/LATE
+X_REPORTV1/snjb.png>]
+File: snjb.png Graphic file (type png)
+ <use snjb.png>
+Package pdftex.def Info: snjb.png used on input line 42.
+(pdftex.def)             Requested size: 108.406pt x 72.26845pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [2]
+Missing character: There is no ’ in font cmr12!
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \prefacesection{Abstract}
+                               [1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.73 \newpage
+              [2
+
+]
+No file REPORT.nls.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.toc" [3
+
+] [4])
+\tf@toc=\write7
+ [5]
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.lot")
+\tf@lot=\write8
+ [6
+
+]
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.lof" [7
+
+])
+\tf@lof=\write9
+
+
+Package Fancyhdr Warning: \headheight is too small (14.45377pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+Chapter 1.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\intro.tex" [1
+
+
+] [2]) [3]
+Chapter 2.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\lits.tex" [4
+
+] [5] [6] [7] [8]
+<L1.jpg, id=551, 348.30125pt x 174.6525pt>
+File: L1.jpg Graphic file (type jpg)
+ <use L1.jpg>
+Package pdftex.def Info: L1.jpg used on input line 47.
+(pdftex.def)             Requested size: 284.54063pt x 170.72655pt.
+
+<L2.png, id=552, 618.31pt x 437.635pt>
+File: L2.png Graphic file (type png)
+ <use L2.png>
+Package pdftex.def Info: L2.png used on input line 54.
+(pdftex.def)             Requested size: 284.53926pt x 227.62492pt.
+
+<L3.jpg, id=554, 501.875pt x 251.94125pt>
+File: L3.jpg Graphic file (type jpg)
+ <use L3.jpg>
+Package pdftex.def Info: L3.jpg used on input line 66.
+(pdftex.def)             Requested size: 284.54012pt x 227.62152pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV
+1/LATEX_REPORTV1/L1.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL Late
+x Report/LATEX_REPORTV1/LATEX_REPORTV1/L2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
+
+ []
+
+[10 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/L3.jpg>] <L4.jpg, id=570, 501.875pt x 376.40625pt>
+File: L4.jpg Graphic file (type jpg)
+
+<use L4.jpg>
+Package pdftex.def Info: L4.jpg used on input line 112.
+(pdftex.def)             Requested size: 284.54012pt x 227.62596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--116
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[12 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/L4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+<A1.png, id=586, 246.9225pt x 170.13562pt>
+File: A1.png Graphic file (type png)
+ <use A1.png>
+Package pdftex.def Info: A1.png used on input line 151.
+(pdftex.def)             Requested size: 284.54263pt x 227.63525pt.
+
+<C1.png, id=587, 586.44093pt x 375.65344pt>
+File: C1.png Graphic file (type png)
+ <use C1.png>
+Package pdftex.def Info: C1.png used on input line 164.
+(pdftex.def)             Requested size: 284.52193pt x 227.62354pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--171
+
+ []
+
+[14 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/A1.png>] [15 <G:/A Tool For Managing Key Value on Oracle NoSQ
+L Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/C1.png>]
+<T1.png, id=601, 554.07pt x 265.74281pt>
+File: T1.png Graphic file (type png)
+ <use T1.png>
+Package pdftex.def Info: T1.png used on input line 189.
+(pdftex.def)             Requested size: 369.88918pt x 199.1728pt.
+ [16 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/T1.png>]) [17]
+Chapter 3.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\srs.tex" [18
+
+] [19] <Fig1.jpg, id=623, 601.24625pt x 228.855pt>
+File: Fig1.jpg Graphic file (type jpg)
+
+<use Fig1.jpg>
+Package pdftex.def Info: Fig1.jpg used on input line 43.
+(pdftex.def)             Requested size: 369.89726pt x 199.17557pt.
+ [20 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig1.jpg>]
+<Fig2.jpg, id=628, 651.43375pt x 421.575pt>
+File: Fig2.jpg Graphic file (type jpg)
+ <use Fig2.jpg>
+Package pdftex.def Info: Fig2.jpg used on input line 54.
+(pdftex.def)             Requested size: 327.21701pt x 227.6278pt.
+
+<Fig3.jpg, id=629, 645.41125pt x 408.52625pt>
+File: Fig3.jpg Graphic file (type jpg)
+ <use Fig3.jpg>
+Package pdftex.def Info: Fig3.jpg used on input line 64.
+(pdftex.def)             Requested size: 327.20544pt x 227.62616pt.
+ [21 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig2.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL 
+Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig3.jpg>] <Fig4.jpg, id=635, 597.23
+125pt x 313.17pt>
+File: Fig4.jpg Graphic file (type jpg)
+
+<use Fig4.jpg>
+Package pdftex.def Info: Fig4.jpg used on input line 75.
+(pdftex.def)             Requested size: 327.21149pt x 256.08426pt.
+ <Fig5.jpg, id=636, 577.15625pt x 340.27126pt>
+File: Fig5.jpg Graphic file (type jpg)
+ <use Fig5.jpg>
+Package pdftex.def Info: Fig5.jpg used on input line 85.
+(pdftex.def)             Requested size: 327.22113pt x 199.16951pt.
+
+[22 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/Fig4.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL L
+atex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig5.jpg>]
+<Fig6.jpg, id=641, 638.385pt x 368.37625pt>
+File: Fig6.jpg Graphic file (type jpg)
+ <use Fig6.jpg>
+Package pdftex.def Info: Fig6.jpg used on input line 96.
+(pdftex.def)             Requested size: 327.20851pt x 227.62083pt.
+
+<Fig7.jpg, id=642, 585.18625pt x 273.02pt>
+File: Fig7.jpg Graphic file (type jpg)
+ <use Fig7.jpg>
+Package pdftex.def Info: Fig7.jpg used on input line 106.
+(pdftex.def)             Requested size: 327.21988pt x 199.16963pt.
+ [23 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig6.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL 
+Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig7.jpg>] <Fig8.jpg, id=647, 541.02
+126pt x 277.035pt>
+File: Fig8.jpg Graphic file (type jpg)
+
+<use Fig8.jpg>
+Package pdftex.def Info: Fig8.jpg used on input line 117.
+(pdftex.def)             Requested size: 327.21567pt x 199.16913pt.
+ [24 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig8.jpg>] [25] [26]
+<Fig9.jpg, id=660, 675.52374pt x 549.05125pt>
+File: Fig9.jpg Graphic file (type jpg)
+ <use Fig9.jpg>
+Package pdftex.def Info: Fig9.jpg used on input line 220.
+(pdftex.def)             Requested size: 483.70705pt x 369.89824pt.
+
+Overfull \hbox (13.95206pt too wide) in paragraph at lines 220--221
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27] [28 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_R
+EPORTV1/LATEX_REPORTV1/Fig9.jpg>]) [29]
+Chapter 4.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\sd.tex" <Fig10.jpg, id=674, 318.43968pt x 341.02406pt>
+File: Fig10.jpg Graphic file (type jpg)
+
+<use Fig10.jpg>
+Package pdftex.def Info: Fig10.jpg used on input line 6.
+(pdftex.def)             Requested size: 398.34016pt x 369.9084pt.
+ [30
+
+ <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/
+LATEX_REPORTV1/Fig10.jpg>]
+<Fig11.jpg, id=679, 745.78625pt x 635.37375pt>
+File: Fig11.jpg Graphic file (type jpg)
+ <use Fig11.jpg>
+Package pdftex.def Info: Fig11.jpg used on input line 26.
+(pdftex.def)             Requested size: 369.87657pt x 298.76143pt.
+ [31 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig11.jpg>] <Fig12.jpg, id=691, 388.45125pt x 522.95375pt>
+File: Fig12.jpg Graphic file (type jpg)
+ <use Fig12.jpg>
+Package pdftex.def Info: Fig12.jpg used on input line 39.
+(pdftex.def)             Requested size: 227.62537pt x 369.89534pt.
+
+<Fig13.jpg, id=692, 731.73375pt x 841.1425pt>
+File: Fig13.jpg Graphic file (type jpg)
+ <use Fig13.jpg>
+Package pdftex.def Info: Fig13.jpg used on input line 49.
+(pdftex.def)             Requested size: 426.79526pt x 426.79509pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/Fig12.jpg>] <Fig14.jpg, id=698, 563.10374pt x 435.6275pt>
+File: Fig14.jpg Graphic file (type jpg)
+
+<use Fig14.jpg>
+Package pdftex.def Info: Fig14.jpg used on input line 61.
+(pdftex.def)             Requested size: 369.8882pt x 227.61772pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/Fig13.jpg>] <Fig15.jpg, id=704, 356.33125pt x 460.72125pt>
+File: Fig15.jpg Graphic file (type jpg)
+
+<use Fig15.jpg>
+Package pdftex.def Info: Fig15.jpg used on input line 73.
+(pdftex.def)             Requested size: 199.16896pt x 227.61835pt.
+ [34 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig14.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL
+ Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig15.jpg>]
+<Fig16.jpg, id=710, 350.30875pt x 380.42125pt>
+File: Fig16.jpg Graphic file (type jpg)
+ <use Fig16.jpg>
+Package pdftex.def Info: Fig16.jpg used on input line 85.
+(pdftex.def)             Requested size: 170.71736pt x 227.62758pt.
+
+<Fig17.jpg, id=711, 159.59625pt x 245.91875pt>
+File: Fig17.jpg Graphic file (type jpg)
+ <use Fig17.jpg>
+Package pdftex.def Info: Fig17.jpg used on input line 96.
+(pdftex.def)             Requested size: 113.8109pt x 142.26898pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--101
+
+ []
+
+[35 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/Fig16.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL 
+Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig17.jpg>]
+<Fig18.jpg, id=717, 159.59625pt x 370.38374pt>
+File: Fig18.jpg Graphic file (type jpg)
+ <use Fig18.jpg>
+Package pdftex.def Info: Fig18.jpg used on input line 108.
+(pdftex.def)             Requested size: 142.26424pt x 227.62357pt.
+
+<Fig19.jpg, id=718, 496.85625pt x 279.0425pt>
+File: Fig19.jpg Graphic file (type jpg)
+ <use Fig19.jpg>
+Package pdftex.def Info: Fig19.jpg used on input line 119.
+(pdftex.def)             Requested size: 227.62413pt x 199.17323pt.
+ [36 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPOR
+TV1/LATEX_REPORTV1/Fig18.jpg> <G:/A Tool For Managing Key Value on Oracle NoSQL
+ Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/Fig19.jpg>]
+<Fig20.jpg, id=724, 524.96124pt x 279.0425pt>
+File: Fig20.jpg Graphic file (type jpg)
+ <use Fig20.jpg>
+Package pdftex.def Info: Fig20.jpg used on input line 131.
+(pdftex.def)             Requested size: 227.61935pt x 199.17323pt.
+) [37 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPO
+RTV1/LATEX_REPORTV1/Fig20.jpg>]
+Chapter 5.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\ts.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[38
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+) [39]
+Chapter 6.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\ps.tex" [40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\OT1/cmr/m/n/12 Conclusion And Fu-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--45
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[41] <fig34.png, id=746, 527.72156pt x 226.59656pt>
+File: fig34.png Graphic file (type png)
+ <use fig34.png>
+Package pdftex.def Info: fig34.png used on input line 94.
+(pdftex.def)             Requested size: 483.69795pt x 369.88849pt.
+
+Overfull \hbox (13.94296pt too wide) in paragraph at lines 94--95
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--97
+
+ []
+
+[42] [43 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_R
+EPORTV1/LATEX_REPORTV1/fig34.png>]
+<fig34-1.png, id=755, 796.47563pt x 210.7875pt>
+File: fig34-1.png Graphic file (type png)
+ <use fig34-1.png>
+Package pdftex.def Info: fig34-1.png used on input line 103.
+(pdftex.def)             Requested size: 398.33406pt x 199.17273pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/fig34-1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--169
+
+ []
+
+
+Overfull \hbox (1.10484pt too wide) in paragraph at lines 151--169
+|  $\OMS/cmsy/m/n/12 $ \OT1/cmr/m/n/12 Base on LOC es-ti-mated and his-tor-i-c
+al pro-duc-tiv-ity data, \OT1/cmr/bx/n/12 To-tal es-ti-mated project
+ []
+
+[45] <TS.png, id=770, 722.7pt x 542.025pt>
+File: TS.png Graphic file (type png)
+ <use TS.png>
+Package pdftex.def Info: TS.png used on input line 175.
+(pdftex.def)             Requested size: 426.79732pt x 426.80559pt.
+) [46 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPO
+RTV1/LATEX_REPORTV1/TS.png>]
+Chapter 7.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\si.tex" <Fig21.jpg, id=776, 318.43968pt x 341.02406pt>
+File: Fig21.jpg Graphic file (type jpg)
+
+<use Fig21.jpg>
+Package pdftex.def Info: Fig21.jpg used on input line 5.
+(pdftex.def)             Requested size: 341.43164pt x 284.54332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+[47
+
+ <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/
+LATEX_REPORTV1/Fig21.jpg>] [48] [49] [50]) [51]
+Chapter 8.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\st.tex" [52
+
+] [53]
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 45--45
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 46--46
+[]\OT1/cmr/m/n/12 Blank Store Name,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/12 En-ter Store Name,
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 47--47
+\OT1/cmr/m/n/12 cor-rect/Correct Host
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 50--50
+\OT1/cmr/m/n/12 Cor-rect Host Name
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/12 ter Cor-rect Store
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 51--51
+\OT1/cmr/m/n/12 Cor-rect Store Name
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\OT1/cmr/m/n/12 ter Cor-rect Host
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 51--51
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 52--52
+[]\OT1/cmr/m/n/12 Incorrect Host Port,
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 52--52
+\OT1/cmr/m/n/12 Cor-rect Store Name
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 52--52
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\OT1/cmr/m/n/12 ter Cor-rect Store
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\OT1/cmr/m/n/12 Name and Host
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 53--53
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/12 ter Cor-rect Store
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 54--54
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/cmr/m/n/12 ter Cor-rect Host
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 55--55
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/n/12 ter Cor-rect Store
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/n/12 Name, Host Name
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 56--56
+[]\OT1/cmr/m/n/12 Error Mes-sage: "Can-not
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 57--57
+[]\OT1/cmr/m/n/12 Message: "Wel-come
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 Com-po-nent, Mi-nor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 "Please En-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\OT1/cmr/m/n/12 Valid Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\OT1/cmr/m/n/12 Valid Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\OT1/cmr/m/n/12 Blank Key Value
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 71--71
+\OT1/cmr/m/n/12 Com-po-nent and Mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\OT1/cmr/m/n/12 "Please En-ter Key
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 71--71
+[]\OT1/cmr/m/n/12 Message: "Data In-serted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/12 Valid Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\OT1/cmr/m/n/12 Com-po-nent, Mi-nor
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/12 Message: "Data In-serted
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 81--81
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 "Please En-ter All
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmr/m/n/12 Valid Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmr/m/n/12 "Please En-ter All
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 Valid Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 "Please En-ter All
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 85--85
+[]\OT1/cmr/m/n/12 Incorrect Ma-jor and
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 85--85
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/12 Correct Ma-jor and
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 97--97
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/cmr/m/n/12 Com-po-nent, Mi-nor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/cmr/m/n/12 "Please En-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 99--99
+\OT1/cmr/m/n/12 Cor-rect Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 100--100
+\OT1/cmr/m/n/12 Cor-rect Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 101--101
+\OT1/cmr/m/n/12 Cor-rect Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 101--101
+\OT1/cmr/m/n/12 Com-po-nent and Mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\OT1/cmr/m/n/12 "Please En-ter Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 104--104
+[]\OT1/cmr/m/n/12 Correct Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\OT1/cmr/m/n/12 Com-po-nent, Mi-nor
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 113--113
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 114--114
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/cmr/m/n/12 "Please En-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmr/m/n/12 Valid Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmr/m/n/12 "Please En-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 Com-po-nent and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 Valid Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 "Please En-ter all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 117--117
+\OT1/cmr/m/n/12 Ma-jor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 118--118
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/12 Correct Ma-jor and
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 119--119
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/12 Message: "Data
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/12 Message: "Data Deleted
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 128--128
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 131--131
+[]\OT1/cmr/m/n/12 Message: "File Up-
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 131--131
+\OT1/cmr/m/n/12 Please Se-lect Op-tions for
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 132--132
+[]\OT1/cmr/m/n/12 Blank Ma-jor, Mi-nor
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 132--132
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\OT1/cmr/m/n/12 Mi-nor Key Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\OT1/cmr/m/n/12 po-nent and Mi-nor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\OT1/cmr/m/n/12 Ma-jor Key Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\OT1/cmr/m/n/12 po-nent and Mi-nor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\OT1/cmr/m/n/12 Blank Mi-nor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\OT1/cmr/m/n/12 Com-po-nent Part
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 135--135
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 136--136
+[]\OT1/cmr/m/n/12 Valid Ma-jor, Mi-nor
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 136--136
+\OT1/cmr/m/n/12 Mi-nor Key Com-po-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.85526pt too wide) in paragraph at lines 145--145
+[]\OT1/cmr/m/n/12 Sr.No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/12 Blank Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\OT1/cmr/m/n/12 Error Mes-sage:
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Correct Ma-jor Key
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Data Dis-played and
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Data Dis-played and File
+ []
+
+) [54] [55] [56] [57] [58] [59] [60] [61]
+Chapter 9.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\erd.tex" <ERD1.png, id=856, 954.56625pt x 447.92343pt>
+File: ERD1.png Graphic file (type png)
+
+<use ERD1.png>
+Package pdftex.def Info: ERD1.png used on input line 5.
+(pdftex.def)             Requested size: 369.87604pt x 199.16467pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--9
+
+ []
+
+[62
+
+ <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/
+LATEX_REPORTV1/ERD1.png>] <ERD2.png, id=862, 560.0925pt x 117.43875pt>
+File: ERD2.png Graphic file (type png)
+
+<use ERD2.png>
+Package pdftex.def Info: ERD2.png used on input line 14.
+(pdftex.def)             Requested size: 369.90149pt x 99.58505pt.
+ <ERD3.png, id=863, 695.59875pt x 111.41624pt>
+File: ERD3.png Graphic file (type png)
+ <use ERD3.png>
+Package pdftex.def Info: ERD3.png used on input line 22.
+(pdftex.def)             Requested size: 369.88618pt x 99.58516pt.
+
+<ERD4.png, id=864, 701.62125pt x 120.45pt>
+File: ERD4.png Graphic file (type png)
+ <use ERD4.png>
+Package pdftex.def Info: ERD4.png used on input line 30.
+(pdftex.def)             Requested size: 369.89832pt x 99.5875pt.
+
+<ERD5.png, id=865, 229.60782pt x 318.43968pt>
+File: ERD5.png Graphic file (type png)
+ <use ERD5.png>
+Package pdftex.def Info: ERD5.png used on input line 39.
+(pdftex.def)             Requested size: 170.72343pt x 199.17007pt.
+
+<ERD6.png, id=866, 193.47281pt x 188.95593pt>
+File: ERD6.png Graphic file (type png)
+ <use ERD6.png>
+Package pdftex.def Info: ERD6.png used on input line 49.
+(pdftex.def)             Requested size: 170.71713pt x 199.17075pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[63 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/ERD2.png> <G:/A Tool For Managing Key Value on Oracle NoSQL L
+atex Report/LATEX_REPORTV1/LATEX_REPORTV1/ERD3.png> <G:/A Tool For Managing Key
+ Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/ERD4.png>]
+[64 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORT
+V1/LATEX_REPORTV1/ERD5.png> <G:/A Tool For Managing Key Value on Oracle NoSQL L
+atex Report/LATEX_REPORTV1/LATEX_REPORTV1/ERD6.png>]
+<ERD7.png, id=881, 249.18094pt x 304.13625pt>
+File: ERD7.png Graphic file (type png)
+ <use ERD7.png>
+Package pdftex.def Info: ERD7.png used on input line 57.
+(pdftex.def)             Requested size: 170.72212pt x 199.17589pt.
+
+<ERD8.png, id=882, 304.88907pt x 282.30469pt>
+File: ERD8.png Graphic file (type png)
+ <use ERD8.png>
+Package pdftex.def Info: ERD8.png used on input line 64.
+(pdftex.def)             Requested size: 170.72275pt x 199.17128pt.
+) [65 <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPO
+RTV1/LATEX_REPORTV1/ERD7.png> <G:/A Tool For Managing Key Value on Oracle NoSQL
+ Latex Report/LATEX_REPORTV1/LATEX_REPORTV1/ERD8.png>]
+Chapter 10.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\conclusion.tex"
+Missing character: There is no ï in font cmr12!
+)
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.bbl" [66
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+[]\OT1/cmr/m/n/12 [Online]. Avail-able: []$http : / / rebelic . nl / 2011 / 05 
+/ 28 /
+ []
+
+) [67
+
+]
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\appendix.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 5--17
+
+ []
+
+[68
+
+]) [69]
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\ap.tex" <AP.png, id=918, 777.65532pt x 763.35187pt>
+File: AP.png Graphic file (type png)
+
+<use AP.png>
+Package pdftex.def Info: AP.png used on input line 4.
+(pdftex.def)             Requested size: 483.70764pt x 455.24248pt.
+
+Overfull \hbox (13.95265pt too wide) in paragraph at lines 4--5
+ [][] 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+ [70
+
+ <G:/A Tool For Managing Key Value on Oracle NoSQL Latex Report/LATEX_REPORTV1/
+LATEX_REPORTV1/AP.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+
+("G:\A Tool For Managing Key Value on Oracle NoSQL Latex Report\LATEX_REPORTV1\
+LATEX_REPORTV1\REPORT.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package rerunfilecheck Info: File `REPORT.out' has not changed.
+(rerunfilecheck)             Checksum: 594EDDBA5A5598AF92E1FB9A057C6FBF;4599.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8767 strings out of 494045
+ 128791 string characters out of 3148380
+ 257570 words of memory out of 3000000
+ 11615 multiletter control sequences out of 15000+200000
+ 13019 words of font info for 48 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 36i,11n,45p,1943b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on REPORT.pdf (80 pages, 2742736 bytes).
+PDF statistics:
+ 1018 PDF objects out of 1200 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 755 words of extra memory for PDF output out of 10000 (max. 10000000)
+

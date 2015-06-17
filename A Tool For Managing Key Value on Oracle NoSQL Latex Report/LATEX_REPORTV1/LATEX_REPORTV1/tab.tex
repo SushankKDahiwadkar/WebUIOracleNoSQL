@@ -1,0 +1,101 @@
+\documentclass{RCPT}
+\usepackage{longtable}
+\begin{document}
+
+\begin{table}
+\begin{center}
+\caption{W3C File format of RCPIT Log file}\label{W3C File format of RCPIT Log file}
+\begin{longtable}{ | p{2cm} | c | p{5cm} | p{4cm} |}
+\hline
+{\bf Field} & {\bf Appears As} & {\bf Description} & {\bf HTTP Log Fields Data Member} \\
+\hline
+\hline
+Date & date & The date on which the activity occurred. & HTTP Server API generated \\  \hline
+Time & time &The time, in coordinated universal time (UTC), at which the activity occurred.  & HTTP Server API generated. \\  \hline
+Service Name and Instance Number & s-site name & The Internet service name and instance number that was running on the client & Service Name \\  \hline
+Server Name  & s-computer name & The name of the server on which the log file entry was generated.  & Server Name \\  \hline
+Server IP Address  & s-ip & The IP address of the server on which the log file entry was generated. & Server IP \\  \hline
+ Method & cs-method & The requested verb, for example, a GET method. & Method \\  \hline
+ URI Stem & cs-uri-stem & The target of the verb, for example, Default.htm. & URI Stem \\  \hline
+ URI Query & cs-uri-query & The query, if any, that the client was trying to perform. A Universal Resource Identifier (URI) query is necessary only for dynamic pages.  & Uri Query \\  \hline
+ Server Port& s-port & The server port number that is configured for the service & Server Port \\
+\hline
+User Name & cs-username & The name of the authenticated user that accessed the server. Anonymous users are indicated by a hyphen & User Name\\
+\hline
+Client IP Address & c-ip & The IP address of the client that made the request & Client Ip\\ \hline
+ Protocol Version& cs-version & The HTTP protocol version that the client used. & HTTP Server API generated. \\  \hline
+User Agent & cs(User-Agent) & The browser type that the client used. & User Agent \\  \hline
+Cookie & cs(Cookie) & The content of the cookie sent or received, if any. & Cookie \\  \hline \hline
+\end{longtable}
+\end{center}
+\end{table}
+
+
+
+
+
+
+
+\begin{table}
+\begin{center}
+\begin{longtable}{ | p{2cm} | c | p{5cm} | p{4cm} |}
+\hline
+{\bf Field} & {\bf Appears As} & {\bf Description} & {\bf HTTP Log Fields Data Member} \\
+\hline
+\hline
+Referrer  & cs(Referrer) & The site that the user last visited. This site provided a link to the current site. & Referrer \\  \hline
+ Host & cs-host & The host header name, if any. & Host \\  \hline
+HTTP Status  & sc-status & The HTTP status code. & Protocol Status \\  \hline
+ Protocol Sub status & sc-sub status & The sub status error code. & Sub Status \\  \hline
+ Win32 Status & sc-win32-status & The Windows status code. & Win32Status \\  \hline
+ Bytes Sent & sc-bytes & The number of bytes sent by the server. & HTTP Server API generated \\  \hline
+ Bytes Received & cs-bytes & The number of bytes received and processed by the server. & HTTP Server API generated. \\  \hline
+ Time Taken & time-taken & The length of time that the action took, in milliseconds. & HTTP Server API generated \\  \hline \hline
+
+
+\end{longtable}
+\end{center}
+\end{table}
+
+
+
+
+
+\begin{table}
+  \centering
+  \caption{Method used in the RCPIT Log file}\label{Method used in the RCPIT Log file}
+
+\begin{tabular}{| c | c | c |}
+\hline 
+  {\bf Sr. no.} & {\bf Method Name} & {\bf Description} \\ \hline
+   1 & GET & Request to read a web page \\ \hline
+   2 & HEAD & Request to read a web page Header \\ \hline
+3 & PUT & Request to Store a Web Page \\ \hline
+4 & POST & Append to a Named Resource ( Example Web Page) \\ \hline
+5 & DELETE & Remove the Web Page  \\ \hline
+6 & TRACE & Echo the Incoming Request \\ \hline
+7 & CONNECT & Reserved for Future Use \\ \hline
+8 & OPTIONS & Query Certain Options \\ \hline
+
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+  \centering
+  \caption{Status Code Series used in log files}\label{Status Code Series used in log files}
+  \begin{tabular}{| c | c | c |}
+  \hline
+  {\bf Sr. no.} & {\bf Status Code Series} & {\bf Description in short} \\ \hline
+ 1 & 1xx & Informational \\ \hline
+ 2 & 2xx & Successful \\ \hline
+ 3 & 3xx & Redirection\\ \hline
+ 4 & 4xx & Client Error\\ \hline
+ 5 & 5xx & Server Error \\ \hline
+  
+  \end{tabular}
+\end{table}
+
+
+
+\end{document} 

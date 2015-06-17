@@ -1,0 +1,19 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{API}]\begingroup Application Programming Interface\nomeqref {1.0}
+		\nompageref{5}
+  \item [{DCS}]\begingroup Dataflow connections\nomeqref {0.0}
+		\nompageref{1}
+  \item [{EXEMPLAR}]\begingroup EXEcutable exaMPLes ARchive\nomeqref {0.0}
+		\nompageref{1}
+  \item [{NG}]\begingroup Normalized Discount Gain\nomeqref {2.0}
+		\nompageref{9}
+  \item [{RAS}]\begingroup Relevant API calls\nomeqref {0.0}
+		\nompageref{1}
+  \item [{VSM}]\begingroup Vector Space Model\nomeqref {3.0}
+		\nompageref{15}
+  \item [{WOS}]\begingroup Word occurences\nomeqref {0.0}\nompageref{1}
+
+\end{thenomenclature}

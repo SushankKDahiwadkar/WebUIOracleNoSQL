@@ -1,0 +1,96 @@
+\section{Installation and uninstallation Guide }
+1. Double Click On Appication  file of "QBEVR". \\
+2. Welcome to the Video Retrival Setup Wizard is shown, Click on Next. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=8cm]{fig41.jpg}
+  \caption{SetUp - VideoRetrieval}\label{SetUp}
+\end{figure}
+
+\newpage
+3. Browse for the Location where you want to install the Video Retrieval, Click on Next.
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=8cm]{fig42.jpg}
+  \caption{Select Destination Location}\label{Select Destination Location}
+\end{figure}
+
+4. Browse for Start menu Folder and Click on Next
+
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=8cm]{fig43.jpg}
+  \caption{Select Start Menu Folder}\label{Select Start Menu Folder}
+\end{figure}
+
+5. Check for Shortcut on Desktop and Click on Next.\\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=7.5cm]{fig44.jpg}
+  \caption{Select Additional Tasks}\label{Select Additional Tasks}
+\end{figure}
+
+\newpage
+6. To Start Installation Click on Install. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=7.5cm]{fig45.jpg}
+  \caption{Ready to Install}\label{Ready to Install}
+\end{figure}
+
+7. The Progress Bar Shows the Installation status. \\
+\newpage
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=7cm]{fig46.jpg}
+  \caption{Installing}\label{Installing}
+\end{figure}
+8. The "Completing the Video Retrieval Setup Wizard " is Shown, Click On Finish. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=7cm]{fig47.jpg}
+  \caption{Installation Complete}\label{Installation Complete}
+\end{figure}
+
+9. Installation Successful.
+
+\newpage
+\begin{itemize}
+  \item \textbf{To Uninstall The Video Retrieval :}
+\end{itemize}
+1. To uninstall the Video Retrieval from your System, click on Yes. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=4.5cm]{fig48.jpg}
+  \caption{VideoRetrieval Uninstall}\label{VideoRetrieval Uninstall}
+\end{figure}
+
+2. Wizard is uninstalling all the components from the computer. You can cancel it by pressing Cancel button. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=7cm]{fig49.jpg}
+  \caption{Uninstall Status}\label{Uninstall Status}
+\end{figure}
+
+3. Click on Finish. \\
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=11cm,height=4.5cm]{fig50.jpg}
+  \caption{Uninstall Complete}\label{Uninstall Complete}
+\end{figure}
+
+\newpage
+\section{Maintenance of Project}
+The "Query by Example Video Retrieval System" Is Deployed to the client with CD and Installation and uninstallation Guide. The Maintenance Period for this software is 1 Year from installation date.
+The maintenance is at client site. Maintenance of the software includes the upgrades for next 1 year are provided and patches if any. The Crash OF CD's are not considered to give maintenance. The Client can ask for maintenance by E-mail and contact numbers provided. After Maintenance period the charges will be applied.
+

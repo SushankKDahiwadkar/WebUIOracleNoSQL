@@ -1,0 +1,145 @@
+\documentclass{SNJB}
+\usepackage{makeidx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{graphicx}
+\usepackage{%
+  babel,
+  algorithmic,
+  algorithm,
+  caption
+}
+
+\usepackage{url}
+\usepackage[breaklinks=true]{hyperref}
+
+\usepackage[]{nomencl}
+\renewcommand{\nomname}{Abbreviations}
+\makenomenclature
+
+\makeindex
+
+\begin{document}
+
+\title{A Tool for Managing Key Value pairs on Oracle NoSQL Database}
+
+\author{Dahiwadkar Sushank K.\\Kapadni Anjali D.\\}
+
+\newauthor{SDK, ADK }
+
+\new{Dahiwadkar Sushank K. \hspace{0.8cm} B80414227 \\ Kapadni Anjali D. \hspace{2.2cm} B80414274 \\}
+
+\dept{\textbf{Department Of Computer Engineering}}
+\supervisor{Prof. M. R. Sanghavi}
+\submitdate{2013 - 2014}
+\degree{Bachelor of Engineering}
+\specialization{Computer Engineering}
+\type{Project}
+%\type{Seminar}
+\hod{Prof. M. R. Sanghavi}
+
+\beforepreface{}
+
+%\end{tabular}
+
+
+\prefacesection{Acknowledgement}
+    \pagenumbering{roman}
+    \pagestyle{plain}
+
+%\input{acknowledgement}
+\hspace*{0.7in}We would like to acknowledge all the people who have been of the help and assisted us throughout our project work. \\
+\hspace*{0.7in}First of all we would like to thank our respected guide Prof. M.R. Sanghavi, Head of Department of Computer Engineering for introducing us throughout features needed. The time-to-time guidance, encouragement, and valuable suggestions received from her are unforgettable in our life. This work would not have been possible without the enthusiastic response, insight, and new ideas from her. We like to thank our mentor Mr. Shirish Joshi working at Persistent Systems Private Limited,Pune.\\
+\hspace*{0.7in}We gladly take this opportunity to thank Dr.V.J.Gond, Principal, SNJB’s College of Engineering, Chandwad for providing all the facilities during the progress of dissertation. We are also grateful to all the faculty members of SNJB's College of Engineering for their support and cooperation.\\
+\hspace*{0.7in}We would like to thank our lovely parents for time-to-time support and encouragement and valuable suggestions, for the emotional as well as strong support each and every time also for continued loving care and emotional support at every stage of this project. \\
+\hspace*{0.7in}We would like to thank our friends for their valuable support and encouragement. In a countless way we have received support and love from all our family members who have constantly encouraged us to achieve new heights. The acknowledgement would be incomplete without mention of the blessing of the Almighty, which helped us in keeping high moral during most difficult period.
+
+\acknowledgeauthor
+
+\prefacesection{Abstract}
+
+\emph{\hspace*{0.7in}Due to huge usage of internet, online data exchange is exponentially increased. Many promising technologies are used to handle the data storage needs in past decades but none of them to be proven sufficient. As a result every industry facing the problem data storagecomes up with in-house solution, and these lead to foundation of standard of NoSQL means not actually SQL (Structured Query Language). So oracle also came up with its product i.e. Oracle NoSQL, which is in developing phase.This project will deal with a Graphical User Interface and Web Services to the Oracle NoSQL Database which will simplify the utility of the Oracle NoSQL.Experimental results show that the proposed solution will be useful for the naive users to use Oracle NoSQL effectively. }
+\begin{itemize}
+  \item Keywords:
+  \\Oracle NoSQL, Big Data, Graphical User Interface, Web Services, Android.
+\end{itemize}
+
+
+
+% Use following command at the command prompt to display the Abbreviations
+% makeindex exemplar.nlo -s nomencl.ist -o exemplar.nls
+
+\newpage
+%\addcontentsline{toc}{chapter}{List of Abbreviations}
+\printnomenclature
+\newpage
+\afterpreface
+
+\listoftables
+\listoffigures
+%\input{glossary}7
+\clearpage
+\pagenumbering{arabic}
+\pagestyle{plain}
+
+
+\pagestyle{fancy}
+
+\titleformat{\chapter}[display]
+{\flushright\normalfont\huge\bfseries}
+{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+
+\chapter{Introduction}
+\input{./intro}
+
+\chapter{Literature Survey}
+\input{./lits}
+
+\chapter{Software Requirement Specification}
+\input{./srs}
+
+\chapter{System Design}
+\input{./sd}
+
+\chapter{Technical Specification}
+\input{./ts}
+
+\chapter{Project Estimate, Schedule And Team Structure }
+\input{./ps}
+
+\chapter{Software Implementation}
+\input{./si}
+
+\chapter{Software Testing}
+\input{./st}
+
+\chapter{Experimental Results And Discussion}
+\input{./erd}
+
+
+
+%\prefacesection{Conclusion And Future Scope}
+\chapter{Conclusion And Future Scope}
+\input{./conclusion}
+
+\nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{ref1}
+
+\prefacesection{Appendix}
+\input{./appendix}
+
+\prefacesection{Authors Profile}
+\input{./ap}
+
+
+%Use following command at the command prompt to display the Index
+% makeindex thesis
+%%%%%\newpage
+%%%%%\addcontentsline{toc}{chapter}{Index}
+%%%%%\printindex
+
+\end{document}
+

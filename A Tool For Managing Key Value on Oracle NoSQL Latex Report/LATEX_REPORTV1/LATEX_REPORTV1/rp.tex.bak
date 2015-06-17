@@ -1,0 +1,22 @@
+\documentclass(report)
+
+
+\begin{document}
+
+
+
+\begin{table}
+  \centering
+  \caption{rrrr}\label{rrr}
+  \begin{tabular}{|c|c|}
+    \hline
+    % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+    asm & masm1 \\
+    a & a \\
+    a & a \\
+    a & a \\
+    \hline
+  \end{tabular}
+\end{table}
+
+\end{document}

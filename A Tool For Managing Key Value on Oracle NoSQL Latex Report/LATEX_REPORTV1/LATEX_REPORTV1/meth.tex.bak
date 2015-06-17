@@ -1,0 +1,24 @@
+\section{Problem Statement}
+\hspace*{0.7in} The above all discussion reveals that there is a need of providing affective methods for extraction of videos from huge database present over web. When a person compares two video sequences for matching, two important points are considered by him/her, first he looks for the similarity between single frames and another is the similarity between the order of the frame in two video sequences are considered. Whenever both of these similarities are available, the video sequences will be known as similar ones. The main objective of present dissertation can be described by the statement of problem, which can be expressed as follow
+\\To propose or implement a system, "Query by Example Based Video Retrieval."
+Based on this fact the objectives is further divided into following sub problems :\\
+\begin{itemize}
+  \item New access mechanism for retrieving videos.
+  \item Fast, accurate and large scale retrieval.
+  \item Interactive and intuitive interface for the user.
+  \item Develop best matching mechanism to retrieve exact features (high/low).
+  \item Proper evaluation of Query.
+\end{itemize}
+And the Scope of the System will be
+\begin{itemize}
+  \item Medical researches and diagnosis.
+  \item Archives of information.
+  \item Video libraries.
+  \item Geographical information system.
+  \item Distance Learning.
+  \item Advertisement.
+  \item Copyright infringement.
+\end{itemize}
+
+\hspace*{0.7in} Query by example video retrieval aims at automatic retrieval of video samples which are similar to a user-provided example from video database. Considering the much of prior work on video analysis support the retrieval of videos was doing using text queries. \textbf{In the proposed method, a set of visual features are extracted from the key frame level analysis. Those visual features are applied to refine retrieval and the similar videos are provided to user based on ranking.}
+	

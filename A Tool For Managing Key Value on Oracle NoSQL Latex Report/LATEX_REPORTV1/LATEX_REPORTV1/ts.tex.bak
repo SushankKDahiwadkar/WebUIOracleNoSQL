@@ -1,0 +1,34 @@
+\section{Technology used for the project}
+\hspace*{0.7in} The technology used for this project is Microsoft Visual Studio C$\sharp$.net 2010, .net framework 4. Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It can be used to develop console and graphical user interface applications along with Windows Forms applications, web sites, web applications, and web services in both native code together with managed code for all platforms supported by Microsoft Windows, Windows Phone, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight. \\
+\hspace*{0.7in} The .NET Framework (pronounced “dot net”) is a software framework that runs primarily on Microsoft Windows. It includes a large library and supports several programming languages which allow language interoperability (each language can use code written in other languages). The .NET library is available to all the programming languages that .NET supports. Programs written for the .NET Framework execute in a software environment, known as the Common Language Runtime (CLR), an application virtual machine that provides important services such as security, memory management, and exception handling. The class library and the CLR together constitute the .NET Framework. \cite{43}
+\begin{itemize}
+  \item \textbf{Emgu.CV.dll : }
+\end{itemize}
+\hspace*{0.7in} Emgu CV is a cross-platform image-processing library. It is closely related to OpenCV because Emgu CV is a .NET wrapper to OpenCV. We can say Emgu CV is OpenCV in .NET. The amazing wrapper makes it possible for OpenCV functions to be called from .NET programming languages. C$\sharp$, VB, IronPython, and VC++ are some of the languages supported. Emgu CV can be compiled in Mono, and it runs under Linux,  Windows, Mac OS X, and popular mobile platforms such as Android devices, iPhone, iPod Touch, and iPad. \cite{44}
+\newpage
+\begin{itemize}
+  \item \textbf{Architecture of Emgu CV dll }
+\end{itemize}
+\begin{figure}[h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=14cm,height=11cm]{fig40.png}\\
+  \caption{Architecture of Emgu CV dll}
+  \label{Architecture of Emgu CV dll}
+\end{figure}
+
+\begin{itemize}
+  \item \textbf{Advantages of Emgu CV :} \cite{45}
+\end{itemize}
+
+\begin{enumerate}
+  \item \emph{Cross Platform} \\
+\hspace*{0.7in} Emgu CV is written entirely in C$\sharp$. The benefit is that it can be compiled in Mono and therefore is able to run on any platform Mono supports, including Linux, Mac OS X, iOS and Android.
+  \item \emph{Cross Language and comes with example code} \\
+\hspace*{0.7in} Emgu CV can be used from several different languages, including C$\sharp$, VB.NET, C++ and IronPython.
+  \item \emph{Other Advantages} \\
+\hspace*{0.7in} Image class with Generic Color and Depth. \\
+\hspace*{0.7in} Automatic garbage collection. \\
+\hspace*{0.7in} XML Serializable Image. \\
+\hspace*{0.7in} XML Documentation and intellisense support. \\
+\end{enumerate}

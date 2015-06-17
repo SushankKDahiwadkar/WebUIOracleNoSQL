@@ -1,0 +1,145 @@
+\documentclass{SNJB}
+\usepackage{makeidx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{graphicx}
+\usepackage{%
+  babel,
+  algorithmic,
+  algorithm,
+  caption
+}
+
+\usepackage{url}
+\usepackage[breaklinks=true]{hyperref}
+
+\usepackage[]{nomencl}
+\renewcommand{\nomname}{Abbreviations}
+\makenomenclature
+
+\makeindex
+
+\begin{document}
+
+\title{Query by Example Based Video Retrieval}
+
+\author{Anjali D. Kapadni \\ Bhagyashri S. Lalwani \\  Prachi V. Danapure}
+
+\newauthor{ADK, BSL, PVD }
+
+\new{Anjali D. Kapadni \hspace{2cm} B80414274 \\ Bhagyashri S. Lalwani \hspace{1.1cm} B80414254 \\ Prachi V. Danapure \hspace{1.4cm} B80414219 \\}
+
+\dept{\textbf{Department Of Computer Engineering}}
+\supervisor{Prof. K. M. Sanghavi}
+\submitdate{2013 - 2014}
+\degree{Bachelor of Engineering}
+\specialization{Computer Engineering}
+\type{Project}
+%\type{Seminar}
+\hod{Prof. M. R. Sanghavi}
+
+\beforepreface{}
+
+%\end{tabular}
+
+
+\prefacesection{Acknowledgement}
+    \pagenumbering{roman}
+    \pagestyle{plain}
+
+%\input{acknowledgement}
+\hspace*{0.7in}We would like to acknowledge all the people who have been of the help and assisted me throughout my project work. \\
+\hspace*{0.7in}First of all we would like to thank my respected guide Prof. K. M. Sanghavi, Associate Professor in Department of Computer Engineering for introducing me throughout features needed. The time-to-time guidance, encouragement, and valuable suggestions received from her are unforgettable in our life. This work would not have been possible without the enthusiastic response, insight, and new ideas from her.\\
+\hspace*{0.7in}We gladly take this opportunity to thank Dr.V.J.Gond, Principal, SNJB’s College of Engineering, Chandwad for providing all the facilities during the progress of dissertation. We are also grateful to all the faculty members of SNJB's College of Engineering for their support and cooperation.\\
+\hspace*{0.7in}We would like to thank our lovely parents for time-to-time support and encouragement and valuable suggestions, for the emotional as well as strong support each and every time also for continued loving care and emotional support at every stage of this project. \\
+\hspace*{0.7in}We would like to thank our friends for their valuable support and encouragement. In a countless way I have received support and love from all my family members who have constantly encouraged me to achieve new heights. The acknowledgement would be incomplete without mention of the blessing of the Almighty, which helped us in keeping high moral during most difficult period.
+
+\acknowledgeauthor
+
+\prefacesection{Abstract}
+\emph{Query by example video retrieval aims at automatic retrieval of video samples which are similar to a user-provided example from video database. Considering the much of prior work on video analysis support, retrieval of videos using text queries are most common. In the proposed method, a set of visual features like color and texture are extracted from key frame level analysis. And then those visual features are applied to refine retrieval and the similar/relevant videos are provided to user based on ranking.}
+\\ \\ \\
+\textbf{Keyword : }\\
+\emph{Video, Video Retrieval, Key-Frame, Key-Frame analysis, Feature Extraction, Query-By-Example.}
+
+% Use following command at the command prompt to display the Abbreviations
+% makeindex exemplar.nlo -s nomencl.ist -o exemplar.nls
+
+\newpage
+%\addcontentsline{toc}{chapter}{List of Abbreviations}
+\printnomenclature
+\newpage
+\afterpreface
+
+\listoftables
+\listoffigures
+%\input{glossary}7
+\clearpage
+\pagenumbering{arabic}
+\pagestyle{plain}
+
+
+\pagestyle{fancy}
+
+\titleformat{\chapter}[display]
+{\flushright\normalfont\huge\bfseries}
+{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+
+\chapter{Introduction}
+\input{./intro}
+
+\chapter{Literature Survey}
+\input{./lits}
+
+\chapter{Software Requirement Specification}
+\input{./srs}
+
+\chapter{System Design}
+\input{./sd}
+
+\chapter{Technical Specification}
+\input{./ts}
+
+\chapter{Project Estimate Schedule And Team Structure }
+\input{./ps}
+
+\chapter{Software Implementation}
+\input{./si}
+\chapter{Project Statement}
+\input{./meth}
+
+
+\chapter{Software Testing}
+\input{./st}
+
+\chapter{Experimental Results And Discussion}
+\input{./erd}
+
+\chapter{Deployment And Maintenance}
+\input{./dm}
+
+
+\prefacesection{Conclusion And Future Scope}
+%\chapter{Conclusion}
+\input{./conclusion}
+%%%%%\appendix
+%\input{appendix}
+
+
+
+
+\nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{ref1}
+
+
+%Use following command at the command prompt to display the Index
+% makeindex thesis
+%%%%%\newpage
+%%%%%\addcontentsline{toc}{chapter}{Index}
+%%%%%\printindex
+
+\end{document}
+

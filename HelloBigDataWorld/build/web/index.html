@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <title>ORA NOSQL CLIENT</title>
+        <meta charset="iso-8859-1">
+        <link rel="stylesheet" href="styles/layout.css" type="text/css">
+        <!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
+    </head>
+    <body>
+        <div class="wrapper row1">
+            <header id="header" class="clear">
+                <hgroup>
+                    <h1><a href="index.htm">ORA NOSQL Client</a></h1>
+                    <h2>Manage Your Oracle NoSQL CLient</h2>
+                </hgroup>
+                <nav>
+                    <ul>
+                        <li><a href="connectStore.htm" target="operation">Connect to Server</a></li>
+                        <!--<li><a href="#">Insert Records</a></li>
+                        <li><a href="#">Display Records</a></li>
+                        <li><a href="#">Import</a></li>
+                        <li class="last"><a href="#">Export</a></li> -->
+                    </ul>
+                </nav>
+                <div class="clear"></div>
+            </header>
+        </div>
+        <!-- content -->
+        <div class="wrapper row2">
+            <div id="container">
+                <!-- content body -->
+                <aside id="left_column">
+                    <h2 class="title">Insert Options</h2>
+                    <nav>
+                        <ul>
+                            <li><a href="singleInsert.htm" target = "operation">Insert Single Record</a></li>
+                            <li class="last"><a href="getMajorPath.html" target='operation'>Insert Multiple Records</a></li>
+                        </ul>
+                    </nav>
+                    <h2 class="title">Update Options</h2>
+                    <nav>
+                        <ul>
+                            
+                            <li class="last"><a href="singleUpdate.html" target='operation'>Update Single Record</a></li>
+                        </ul>
+                    </nav>
+                    <h2 class="title">Diplay Records</h2>
+                    <nav>
+                        <ul>
+                            <li><a href="singleDisplay.htm" target = "operation">Display Single Record</a></li>          
+                            <li class="last"><a href="multipleDisplay.html" target = "operation">Display Multiple Records</a></li>
+                        </ul>
+                    </nav>
+                    <h2 class="title">Delete Options</h2>
+                    <nav>
+                        <ul>
+                            <li><a href="singleDelete.html" target = "operation">Delete Single Record</a></li>
+                            <li class="last"><a href="multipleDelete.html" target='operation'>Delete Multiple Records</a></li>
+                        </ul>
+                    </nav>
+                    <h2 class='title'>
+                        
+                        <a href="UploadFile.html" target = "operation">Import From File</a>
+                        
+                    </h2>
+                    <h2 class='title'>
+                        
+                        <a href="exportCSV.html" target = "operation">Export To File</a>
+                        
+                    </h2>
+                </aside>
+                <!-- main content -->
+                <div id="content">
+                    <!-- section 1 -->
+
+                    <!-- article 1 -->
+                    <iframe name = "operation" src="connectStore.htm" style = "border-style:dashed ; border-color: inherit; border-width: 1px; width:100%; height:500px;">
+                    </iframe>
+
+
+
+
+                </div>
+                <!-- / content body -->
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+        <!-- footer -->
+        <div class="wrapper row3">
+            <footer id="footer">
+                <p class="fl_left">Copyright &copy; 2012 - All Rights Reserved - <a href="#">Domain Name</a></p>
+                <p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+                <div class="clear"></div>
+            </footer>
+        </div>
+    </body>
+</html>

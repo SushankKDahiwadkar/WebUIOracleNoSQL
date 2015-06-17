@@ -1,0 +1,132 @@
+\section{System Implementation}
+\subsection{Introduction}
+\hspace*{0.7in} The system is applicable when user is having some videos with him/her and he/she wants the same or related more videos. The system will get the query video input, the feature of example video will be extracted on the basis of it's color and texture features value. Texture features like Hue, Saturation, Value etc are extracted and Color Value (R,G,B) are extracted. The Database have keyframes of videos in it, features of example video and the video that is in database are compared, when maximum features will get matched the result will return get back to user on percentile basis ranking. The user can download those videos also to his/her local machine.
+
+\subsection{Important Modules of the System}
+The system contains following modules :
+\begin{enumerate}
+  \item Upload videos into database.
+  \item Keyframes generation.
+  \item Feature extraction like Color and texture.
+  \item Comparison on the basis of extracted features.
+  \item Search video.
+  \item Download video.
+\end{enumerate}
+\begin{itemize}
+  \item Upload videos into database and Keyframes generation : \\
+\hspace*{0.7in} When admin browse the video for uploading it into database the system will extract the frames from video. Once frame get extracted, system will extract the keyframes from frames by using color and texture features, at the same time it stores frames into directory. This all process is running into background.
+
+  \item Feature extraction like Color and texture for Comparison : \\
+\hspace*{0.7in} When comparison has to carried out the color features are extracted from every keyframe pixel by pixel on the same time texture features are also extracted.
+
+  \item Search video : \\
+\hspace*{0.7in} When user input the query video into system for searching relevant videos then first of all keyframes get extracted from video after that features are extracted. when the comparison between query video's keyframe and database video's keyframes is going on at that time on the basis of color and texture feature percentile value of features is calculated and the frames which matches with database video frames, more that 50percent threshold are considered for retrieving purpose.
+
+  \item Download video : \\
+\hspace*{0.7in} User can download the videos from the result which he/she gets into the output.
+\end{itemize}
+\subsection{Mathematical Modeling and algorithm}
+$\bigodot$ S=\{I,O,P,VD,C\} \\
+Where
+\\ \hspace*{0.7in} S is System
+
+\begin{itemize}
+  \item I =[Vf]=\{f1,f2,..........,fn\}
+\end{itemize}
+Where
+\\ \hspace*{0.7in} I is the input set, And \\
+\hspace*{0.7in} Vf is no of frames in one video. \\
+\\
+$ \checkmark $ [Vf]=\{Vc,Vt\} \\
+$ \checkmark $ [Vc]=\{r,g,b\} \\
+$ \checkmark $ [Vt]=\{h,s,v\} \\
+\\
+Where
+\\ \hspace*{0.7in} Vc and Vt is the color and texture feature of frames respectively. \\
+
+\begin{itemize}
+  \item O= \{Vi,...........,Vn| $ i=1 \leq n,n \in N $\}
+\end{itemize}
+
+Where
+\\ \hspace*{0.7in} O : The output set. \\
+\hspace*{0.7in} Vi....Vn : Number of videos. \\
+\hspace*{0.7in} n : Number of videos in search results.\\
+\hspace*{0.7in} N : Number of video in Database. \\
+
+\begin{itemize}
+  \item VD=\{Vid,Vc,Vt,Vp[x]\}
+\end{itemize}
+Where
+\\ \hspace*{0.7in} VD : The video database. \\
+$ \checkmark $ VId : \{1,........,n\} \\
+$ \checkmark $ Vc = \{c1j,c2j,.......,cnj\} , $j = 1 \leq n $ \\
+$ \checkmark $ Vt = \{t1,t2,.......,tn\} \\
+$ \checkmark $ Vp = \{p1x,.......,pnx\} \\
+Where
+\\ \hspace*{0.7in} Vp is video path \\
+
+\begin{itemize}
+  \item $ P =\{\delta_{c} ,\delta_{t}\} $
+\end{itemize}
+Where
+\\ \hspace*{0.7in} P is the processing. \\
+\hspace*{0.7in} $\delta_{c}  and  \delta_{t}$ is the color and texture  functions.\\
+\\
+$ \checkmark \delta_{c}=[Ci]_{1}^{j}=X^{t}=T(X)=\Sigma_{i=0}^{x}n_{i}\frac{max.int}{N} $ \\
+Where
+\\ \hspace*{0.7in} $ n_{i} $is no of Frames
+\\ \hspace*{0.7in} N is no of video image.
+
+$ \checkmark  \delta t : $ \\
+\hspace*{0.4in} we adopted three indicators extracted viz. Hue, Saturation,Value etc.\\
+\\
+$ \divideontimes $ \textbf{Final Equation: } \\
+\hspace*{0.7in} Query video is Vq = { s1,s2,…………..sq,……sl} And, \\
+\hspace*{0.7in} database video is Vd  = $\{ s_1^1,s_1^2,……,s_v^m,…….\}$ \\
+Where
+\\ \hspace*{0.7in} L is the number of frames in query video, \\
+\hspace*{0.7in} M and v represent serial number of frame and video. \\
+\\
+Based on the observations the database video which is similar to query Vq  is defind as follws
+\\
+$ SimV(V_{q})=\{V_{i} \mid I = arg_{x}^{max} = \{\sum_{x}\sum_{j=1}^{m}\sum_{q-1}^{l}1 SimS(S_{x}^{j})\}\}$ \\
+
+Where
+\\ \hspace*{0.7in} SimS(s) denotes the frame which is similar to frame. \\
+
+
+$ \divideontimes $ \textbf{Performance measures:} \\
+\\
+$Precision=\frac{\mid Correct \mid}{\mid Retrieved \mid} \times 100 \% $
+\\
+\\
+\\ $Recall=\frac{\mid Correct \mid}{\mid Retrieved \mid} \times 100 \% $ \\
+Where
+\\ \hspace*{0.7in} correct is the number of relationally retrieved videos.
+\\ Retrieved is the number of all retrieved videos by the proposed approach. \\
+\\
+$C = \{ci(1 \leq i \leq 180) and tj=(1 \leq j \leq 8) Video length \leq 10 sec, Video format = AVI \}$ \\
+Where
+\\ \hspace*{0.7in} ci is the color feature and tj is the texture feature. \\
+
+\subsection{Advantages And Disadvantages}
+\begin{itemize}
+  \item Direct searching of video.
+  \item Detailed search for interested video will be decreased.
+  \item Exact matches will be resulted.
+  \item Size of the video.
+  \item Time complexity.
+\end{itemize}
+
+\subsection{Applications}
+\begin{itemize}
+  \item Broadcast Sport Area.
+  \item Crime Investigation.
+  \item Large scale multimedia search engines on the Web.\\
+\hspace*{0.7in}o	Image search: Yahoo! and Google\\
+\hspace*{0.7in}o	Video search: YouTube
+  \item Media asset management systems in corporations.
+  \item Audio-visual broadcast servers/Broadcast News.
+  \item Personal media servers for consumers.
+\end{itemize}

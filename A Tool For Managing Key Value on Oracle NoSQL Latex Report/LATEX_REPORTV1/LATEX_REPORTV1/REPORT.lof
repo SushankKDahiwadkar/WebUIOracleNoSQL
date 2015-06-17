@@ -1,0 +1,51 @@
+\select@language {USenglish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Basic terminology for labeled property graphs\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces labeled property graph.\relax }}{9}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Graph Database exapmle.\relax }}{10}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces NoSQL Data Models\relax }}{12}{figure.caption.12}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Architecture of Key Value Pair NoSQL Database\relax }}{14}{figure.caption.13}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces CAP Theorem of NoSQL\relax }}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces NoSQL in Practice\relax }}{16}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Connect To Store\relax }}{20}{figure.caption.16}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Insert Data Into Store\relax }}{21}{figure.caption.17}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Display Data\relax }}{21}{figure.caption.18}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Delete Data\relax }}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Update Data\relax }}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Import/Export\relax }}{23}{figure.caption.21}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Daily Attendance Check\relax }}{23}{figure.caption.22}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Monthly Attendance Check\relax }}{24}{figure.caption.23}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Class Diagrams\relax }}{28}{figure.caption.24}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces System Architecture\relax }}{30}{figure.caption.25}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces State Transition For User\relax }}{31}{figure.caption.26}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Attendance check System\relax }}{32}{figure.caption.27}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Sequence Diagram\relax }}{33}{figure.caption.28}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Attendance check System\relax }}{34}{figure.caption.29}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Collaboration Diagram\relax }}{34}{figure.caption.30}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Attendance check System\relax }}{35}{figure.caption.31}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Package Diagram\relax }}{35}{figure.caption.32}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Attendance check System\relax }}{36}{figure.caption.33}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Deployment Diagram\relax }}{36}{figure.caption.34}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Attendance check System\relax }}{37}{figure.caption.35}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Gantt Chart of Scheduling of Sem I\relax }}{43}{figure.caption.39}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Gantt Chart of Scheduling Sem II\relax }}{44}{figure.caption.40}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Team Structure\relax }}{46}{figure.caption.43}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces System Architecture\relax }}{47}{figure.caption.44}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Working Model of System.\relax }}{62}{figure.caption.52}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Single KVPair Insert Operation\relax }}{63}{figure.caption.53}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Multiple KVPair Display Operation\relax }}{63}{figure.caption.54}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Import CSV Operation.\relax }}{63}{figure.caption.55}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Interface for connection to Store.\relax }}{64}{figure.caption.56}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Options for Attendance Check.\relax }}{64}{figure.caption.57}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Daily Attendance Check Interface.\relax }}{65}{figure.caption.58}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Monthly Attendance Check Report.\relax }}{65}{figure.caption.59}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Authors Profile\relax }}{70}{figure.caption.63}
